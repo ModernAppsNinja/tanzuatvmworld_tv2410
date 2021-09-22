@@ -1,6 +1,6 @@
 ---
-title: "ModernApps by VMware Tanzu Learning Guide Template"
-linkTitle: "ModernApps Learning Guide Template"
+title: "Tanzu at VMworld 2021 Guide"
+linkTitle: "Tanzu at VMworld 2021"
 weight: 20
 menu:
   main:
