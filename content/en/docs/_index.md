@@ -7,14 +7,9 @@ menu:
     weight: 20
 ---
 
-- [About the Learning Guide Template](#about-the-learning-guide-template)
-- [Formatting Reference](#formatting-reference)
-  - [Reference Guide](#reference-guide)
-  - [Source Template Documentation](#source-template-documentation)
-  - [Template Framework Documentation](#template-framework-documentation)
-- [How to create a new Learning Guide](#how-to-create-a-new-learning-guide)
-  - [Prerequisites](#prerequisites)
-  - [Instructions](#instructions)
+- [About VMworld 2021](#about-vmworld-2021)
+  - [Key links to learn more about VMworld 2021:](#key-links-to-learn-more-about-vmworld-2021)
+- [Tanzu Portfolio Sessions at VMworld 2021](#tanzu-portfolio-sessions-at-vmworld-2021)
 
 ## About VMworld 2021
 
